@@ -3,7 +3,7 @@
 
 ## How to give it a go?
 
-1. Install dependencies
+1. Install required dependencies 
         
         npm install
         
