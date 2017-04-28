@@ -1,6 +1,6 @@
 {
   "name": "jsdt-node-test-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple Node.js Project for JSDT tests usage",
   "main": "index.js",
   "scripts": {
